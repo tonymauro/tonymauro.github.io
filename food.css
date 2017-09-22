@@ -1,24 +1,24 @@
 #container{
-	width: 1000px;
+	width: 1000;
 }
 
 #header{
 	background-color:#ffffff;
-	margin-bottom: 10px;
-	font-size: 20px;
+	margin-bottom: 10;
+	font-size: 20;
 }
 
 #menu{
 	background-color:#FF7D00;
-	height:200px;
-	width:200px;
+	height:200;
+	width:200;
 	float:left;
-	border:5px black;
+	border:5;
 }
 #content{
 	background-color:#EEEEEE;
-	height:200px;
-	width:600px;
+	height:200;
+	width:600;
 	float:left;
 }
 #footer{
@@ -29,11 +29,11 @@
 
 img{
 border:5px black;
-padding: 5px;
-height: 300px;
-width: 300px;
+padding: 5;
+height: 300;
+width: 300;
 background-color:white;
-margin-left:220px;
+margin-left:220;
 }
 
 h1 {
