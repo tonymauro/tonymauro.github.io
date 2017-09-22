@@ -1,24 +1,24 @@
 #container{
-	width: 1000;
+	width: 1000px;
 }
 
 #header{
 	background-color:#FF5A00;
-	margin-bottom: 0;
-	font-size: 40;
+	margin-bottom: 0px;
+	font-size: 40px;
 }
 
 #menu{
 	background-color:#00FF00;
-	height:200;
-	width:200;
+	height:200px;
+	width:200px;
 	float:left;
-	border:5;
+	border:5px;
 }
 #content{
 	background-color:#0000FF;
-	height:200;
-	width:600;
+	height:200px;
+	width:600px;
 	float:left;
 }
 #footer{
@@ -29,21 +29,21 @@
 
 img{
 border:5px black;
-padding: 5;
-height: 300;
-width: 300;
+padding: 5px;
+height: 300px;
+width: 300px;
 background-color:white;
-margin-left:220;
+margin-left:220px;
 }
 
 h1 {
    color:black;
-   margin-bottom:0; 
+   margin-bottom:0px; 
    text-align:center;}
 
 h2 {
    color:blue;
-   margin-bottom:20; 
+   margin-bottom:20px; 
    text-align:left;}
 
    
