@@ -8,31 +8,23 @@
 	font-size: 20px;
 }
 
-#header2{
-	background-color:#ee0000;
-	width: 1000px;
-	height: 175px;
-	text-align:left;
-}
-
-#block1{
-	background-color:#00ff00;
-	height:1000px;
-	width:100px;
+#menu{
+	background-color:#FF7D00;
+	height:200px;
+	width:200px;
 	float:left;
 	border:5px black;
 }
-#block2{
-	background-color:#00ff00;
-	height:1000px;
-	width:800px;
+#content{
+	background-color:#EEEEEE;
+	height:200px;
+	width:600px;
 	float:left;
 }
-#block3{
-	background-color:#00ff00;
-	height:1000px;
-	width:100px;
-	float:left;
+#footer{
+	background-color:#FFA500;
+	clear:both;
+	text-align:center;
 }
 
 img{
